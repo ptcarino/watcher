@@ -1,7 +1,12 @@
-> **Disclaimer:** This is an AI-generated Python script. Review the code before running it in your environment. The author is not responsible for any damages this script may cause.
+> [!CAUTION]
+> ## ⚠️ DISCLAIMER
+> **This is an AI-generated Python script.**
+>
+> Review the code thoroughly before running it in your environment.
+>
+> **The author is not responsible for any damages this script may cause.**
 
 # watcher
-
 A Python script that keeps [changedetection.io](https://changedetection.io) and [FlexGet](https://flexget.com) in sync by appending keywords to both in a single run.
 
 ## What it does
